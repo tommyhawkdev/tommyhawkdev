@@ -1,19 +1,32 @@
-# 👋 Hi, I’m @hkhairinas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkhairinas&hide=contribs,prs&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+# 👋 Hi, I'm Hutomo Khairinas (aka TommyHawk)
 
-- 👀 I’m interested in Programming, Data Science and Games
-- 🌱 I’m currently learning data science to get my postgraduate degree.
-- 📫 How to reach me <a href="http://hkhairinas/github.io/about"> Profile </a>
-<!--- 💞️ I’m looking to collaborate on --->
+💻 **Web Developer | Automation Builder | Gamer Who Codes**
+
+I build things that make digital life easier — from **payment gateways**, **automation systems**, to **game bots**.  
+Currently working on **[ATOM](https://api-otomatis.my.id)** (API automation & payment gateway)  
+and **[TokoHawk](https://tokohawk.com)** (PPOB platform in progress).
+
 ---
-### MyProject
-- You can find my project apps here : <a href="https://hkhairinas.github.io/project/"> Project </a>
-- BukuToko : <a href="https://hkhairinas.github.io/buku-bunda/"> BukuToko </a> (Apps that store selling data in indonesian lang *still in development*)
-- ATOM : <a href="https://api-otomatis.my.id"> ATOM </a>
 
-### Connect With Me
-- <a href="https://www.linkedin.com/in/hkhairinas/"> Linkedin  </a>
-<!---
-hkhairinas/hkhairinas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚙️ What I Do
+- 🧩 Develop web automation systems (CodeIgniter 4, Python, JS)
+- 🔗 Integrate APIs (Midtrans, Digiflazz, custom gateways)
+- 🕹️ Create game-related tools & bot automation
+- 🚀 Build scalable digital transaction systems
+
+---
+
+### 🧠 Tech Stack
+`CI4` • `PHP` • `Python` • `MySQL` • `REST API`
+`Nginx` • `Linux` • `Git` • `Automation`
+
+---
+
+### 🚀 Projects
+| Project | Description | Status |
+|----------|--------------|--------|
+| [ATOM](https://api-otomatis.my.id) | Payment & automation gateway | 🟢 Live |
+| [TokoHawk](https://tokohawk.com) | PPOB web system | ⚙️ In Development |
+| [BukuToko](https://github.com/tommyhawkdev/BukuToko) | Store management app | 🧱 Stable |
+
+---
