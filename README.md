@@ -10,19 +10,31 @@ Currently building **[MotaZR](https://motazr.com)** — a transaction & payment 
 
 ### ⚙️ What I Do
 
-* 🧩 Build web applications & automation systems with **CodeIgniter 4, PHP, Python, and JavaScript**
+* 🧩 Build web applications & automation systems
 * 🔗 Integrate **REST APIs, payment services, PPOB, and transaction providers**
 * 🚀 Build scalable **transaction & payment infrastructure**
 * 🤖 Develop automation tools and bots
+* 📱 Build web & mobile applications
 * 🖥️ Manage Linux servers, VPS, networking, and deployment infrastructure
 
 ---
 
 ### 🧠 Tech Stack
 
-`PHP` • `CodeIgniter 4` • `Python` • `JavaScript`
-`MySQL` • `REST API` • `Nginx` • `Linux`
-`Git` • `Docker` • `Automation` • `API Integration`
+**Backend**
+`PHP` • `CodeIgniter 4` • `Python` • `REST API`
+
+**Frontend**
+`JavaScript` • `React` • `Vite`
+
+**Mobile**
+`Flutter` • `Dart`
+
+**Database & Infrastructure**
+`MySQL` • `Nginx` • `Linux` • `Docker` • `Git`
+
+**Automation**
+`Python` • `API Integration` • `Web Automation`
 
 ---
 
